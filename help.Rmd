@@ -1,0 +1,9 @@
+---
+title: "Readme"
+author: "Robert"
+date: "27 december 2015"
+output: html_document
+---
+
+This app shows the location of cities on a map. Click on a city name and
+the map will show a dot with its location.
